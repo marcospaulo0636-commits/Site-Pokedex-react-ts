@@ -83,8 +83,8 @@ React 18 · TypeScript · Vite · React Router DOM · PokéAPI · CSS puro
 Pré-requisito: [Node.js](https://nodejs.org) 18 ou superior.
 
 ```bash
-git clone https://github.com/marcospaulo0636-commits/pokedex-react-ts.git
-cd pokedex-react-ts
+git clone https://github.com/marcospaulo0636-commits/Site-Pokedex-react-ts.git
+cd Site-Pokedex-react-ts
 npm install
 npm run dev
 ```
